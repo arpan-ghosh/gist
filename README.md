@@ -1,2 +1,2 @@
 # gist
-gist.github.com/arpan-ghosh
+https://gist.github.com/arpan-ghosh/
