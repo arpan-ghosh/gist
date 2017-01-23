@@ -1,5 +1,7 @@
-@author Arpan Ghosh
-
+/*
+ * Array List implementation. Feel free to use this implementation.
+ * @author Arpan Ghosh 
+ */
 import java.util.Arrays;
 
 public class ArrayList {
