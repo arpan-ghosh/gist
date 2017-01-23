@@ -1,3 +1,5 @@
+@author Arpan Ghosh
+
 import java.util.Arrays;
 
 public class ArrayList {
